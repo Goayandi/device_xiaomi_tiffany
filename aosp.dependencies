@@ -1,0 +1,24 @@
+[
+  {
+    "repository": "android_device_qcom_common",
+    "target_path": "device/qcom/common"
+  }
+  {
+    "remote": "github",
+    "repository": "Mi5xDevs/android_kernel_xiaomi_msm8953",
+    "target_path": "kernel/xiaomi/msm8953",
+    "revision": "cm-14.1"
+  },
+  {
+    "remote": "github",
+    "repository": "Mi5xDevs/proprietary_vendor_xiaomi_tiffany",
+    "target_path": "vendor/xiaomi/tiffany",
+    "revision": "cm-14.1"
+  },
+  {
+    "remote": "github",
+    "repository": "krasCGQ/aarch64-linux-android",
+    "target_path": "prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-7.3.1",
+    "revision": "opt-gnu-7.x"
+  }
+]
