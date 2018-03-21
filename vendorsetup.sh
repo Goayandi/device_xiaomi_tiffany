@@ -1,1 +1,1 @@
-add_lunch_combo bootleg_mido-userdebug
+add_lunch_combo lineage_tiffany-userdebug
